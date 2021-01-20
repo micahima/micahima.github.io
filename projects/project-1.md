@@ -8,7 +8,8 @@ permalink: projects/topdown
 date: 2019-12-08
 labels:
   - Java
-  - Game Design
+  - Game Development
+  - GitHub
 summary: A Top-Down Game that I developed for ICS 111.
 ---
 
