@@ -13,7 +13,6 @@ summary: A Top-Down Game that I developed for ICS 111.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/TopDownGameEnemy.png">
   <img class="ui image" src="../images/TopDownGamePlay.jpg">
 </div>
 
