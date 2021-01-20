@@ -12,7 +12,7 @@ labels:
 summary: A Top-Down Game that I developed for ICS 111.
 ---
 
-<div class="ui large rounded images">
+<div class="ui large center floated rounded images">
   <img class="ui image" src="../images/TopDownGamePlay.jpg">
 </div>
 
