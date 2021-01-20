@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: 
 title: Cave Story Remake (In-Progress)
 permalink: projects/CaveStoryRemake
 # All dates must be YYYY-MM-DD format!
