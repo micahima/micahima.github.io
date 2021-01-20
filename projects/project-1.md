@@ -20,3 +20,5 @@ For ICS 111, Introduction to Computer Science I, I worked in a group of threee t
 For this project, I was the lead programmer for the mechanics and animation of the playable character. I contributed to the development of all other aspects of the game such as, the NPC mechanics, sprite design, background design, etc.
 
 The development of this Top-Down Game served as an introduction to computer science, game development, and the Java programming language. From this project, I gain experince in object-oriented programming, GUI development, class library utilization, and team project development. 
+
+Source: <a href="https://github.com/micahima/ICS111TopDownGame"><i class="large github icon "></i>micahima/ICS111TopDownGame</a>
