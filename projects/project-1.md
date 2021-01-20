@@ -12,7 +12,8 @@ labels:
 summary: A Top-Down Game that I developed for ICS 111.
 ---
 
-<img class="ui floated rounded image" src="../images/TopDownGamePlay.jpg">
+<img class="ui rounded image" src="../images/TopDownGamePlay.jpg">
+
 
 For ICS 111, Introduction to Computer Science I, I worked in a group of threee to developed a top-down game using object-oriented programming in Java. The game is implemented using the [EZ Graphic multimedia library](http://www2.hawaii.edu/~dylank/ics111/), developed by Dylan Kobayashi, for the game mechanics, user-interface, and animation.
 
