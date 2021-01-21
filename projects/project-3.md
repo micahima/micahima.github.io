@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/SudokuSqaure.jpg
 title: Hexadecimal Recursive Sudoku Solver
 permalink: projects/sudoku
 # All dates must be YYYY-MM-DD format!
