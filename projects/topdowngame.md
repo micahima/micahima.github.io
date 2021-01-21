@@ -24,6 +24,6 @@ The development of this Top-Down Game served as an introduction to computer scie
 
 Source: <a href="https://github.com/micahima/topdowngame-ics111"><i class="large github icon "></i>micahima/topdowngame-ics111</a>
 
-Demo Video: <a href="https://www.youtube.com/watch?v=qKSeR2yMcWw&feature=youtu.be"><i class="large youtube icon "></i>Top Down Game Demo Video</a>
+Demo: <a href="https://www.youtube.com/watch?v=qKSeR2yMcWw&feature=youtu.be"><i class="large youtube icon "></i>Top Down Game Demo Video</a>
 
 
