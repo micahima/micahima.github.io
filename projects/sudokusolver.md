@@ -15,12 +15,9 @@ summary: Homework assignment for ICS 211.
 
 This project was a homework assignment for my ICS 211 course. The assignment focused on implementing a recusive backtracking algorithm in order to solve 16x16 Hexadecimal Sudoku Puzzles. A majority of the set-up for this project was done by the professor for the course. The students were tasked with implementing the *solveSudoku* and *legalValues* functions in *HexadecimalSudoku.java*. 
 
-<p>
-  <img class="ui medium left floated rounded image" src="../images/Sudoku_Ex1.jpg"> 
-  <img class="ui medium floated right rounded image" src="../images/Sudoku_Ex2.jpg">
-</p>
-
-
+|               |               |
+| ------------- | ------------- |
+| <img class="ui medium floated rounded image" src="../images/Sudoku_Ex1.jpg">|<img class="ui medium floated rounded image" src="../images/Sudoku_Ex2.jpg">|
 
 ### How It Works
 The *solveSudoku* function works by checking an inputted 16x16 puzzle for an empty cell which is marked by a -1. Once a empty cell is located, the *solveSudoku* function creates a list of legal values, using the *legalValue* function. The *solveSudoku* function then inputs that first legal value into the empty cell and recursivly calls itself with the newly updated puzzle as it's input.
@@ -29,13 +26,9 @@ The *solveSudoku* function works by checking an inputted 16x16 puzzle for an emp
 
 The program can handle the simpler sudoku problems very well and solves the depicted examples (example 1 and example 2) is a few seconds. However, the implemented algorithm can run for significantly longer depending on the puzzle. For example, the program took about 25 mins to solve the Hard puzzle. This may be due to factors than the efficeny of the program because, oddly, the program was able to solve the Harder/Impossible example is about 5 mins.
 
-<p>
-  <img class="ui medium left floated rounded image" src="../images/Sudoku_Ex3.jpg"> 
-  <img class="ui medium right floated rounded image" src="../images/Sudoku_Ex4.jpg">
-</p>
-
-
-
+|               |               |
+| ------------- | ------------- |
+| <img class="ui medium floated rounded image" src="../images/Sudoku_Ex3.jpg">|<img class="ui medium floated rounded image" src="../images/Sudoku_Ex4.jpg">|
 
 Source: <a href="https://github.com/micahima/sudokusolver"><i class="large github icon "></i>micahima/sudokusolver</a>
 
