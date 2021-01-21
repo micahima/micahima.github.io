@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/
+image: images/JudoSquare.jpg
 title: Judo
 permalink: projects/jduo
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,7 @@ labels:
 summary: An animation talking about my experince with Judo.
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/Judo_1.jpg">
   <img class="ui image" src="../images/Judo_2.jpg">
   <img class="ui image" src="../images/Judo_3.jpg">
