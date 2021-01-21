@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Coding Together
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2021-01-20
 labels:
   - Software Engineering
   - Learning
