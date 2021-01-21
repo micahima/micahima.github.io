@@ -27,5 +27,5 @@ The program can handle the simpler sudoku problems very well and solves the depi
 <img class="ui rounded image" src="../images/Sudoku_Ex3.jpg">
 <img class="ui rounded image" src="../images/Sudoku_Ex4.jpg">
 
-Source: <a href="https://github.com/micahima/sudokusolver"><i class="large github icon "></i>jogarces/sudokusolver</a>
+Source: <a href="https://github.com/micahima/sudokusolver"><i class="large github icon "></i>micahima/sudokusolver</a>
 
