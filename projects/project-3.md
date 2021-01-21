@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/SudokuSqaure.jpg
+image: images/SudokuSquare.jpg
 title: Hexadecimal Recursive Sudoku Solver
 permalink: projects/sudoku
 # All dates must be YYYY-MM-DD format!
@@ -9,6 +9,7 @@ date: 2020-03-01
 labels:
   - Java
   - Recursion
+  - GitHub
 summary: Homework assignment for ICS 211.
 ---
 
