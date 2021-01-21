@@ -16,8 +16,9 @@ summary: An animation talking about my experince with Judo.
 <div class="ui medium rounded images">
   <img class="ui image" src="../images/Judo_1.jpg">
   <img class="ui image" src="../images/Judo_2.jpg">
-  <img class="ui image" src="../images/Judo_3.jpg">
 </div>
+
+<img class="ui large rounded image" src="../images/Judo_3.jpg">
 
 ### Summary
 A story of how a childhood passion, judo, brought great amounts of joy to his life despite it being a dangerous sport. The protagonist faced many injuries and hardships, such as concussions and crazy instructors, but continued to be passionate about judo to this day.
