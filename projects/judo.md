@@ -13,7 +13,7 @@ labels:
 summary: An animation talking about my experince with Judo.
 ---
 
-<div class="ui medium rounded images">
+<div class="ui medium centered rounded images">
   <img class="ui image" src="../images/Judo_1.jpg">
   <img class="ui image" src="../images/Judo_2.jpg">
 </div>
