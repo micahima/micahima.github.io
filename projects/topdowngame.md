@@ -23,6 +23,7 @@ For this project, I was the lead programmer for the mechanics and animation of t
 The development of this Top-Down Game served as an introduction to computer science, game development, and the Java programming language. From this project, I gain experince in object-oriented programming, GUI development, class library utilization, and team project development. 
 
 Source: <a href="https://github.com/micahima/topdowngame-ics111"><i class="large github icon "></i>micahima/topdowngame-ics111</a>
+
 Demo Video: <a href="https://www.youtube.com/watch?v=qKSeR2yMcWw&feature=youtu.be"><i class="large youtube icon "></i>Top Down Game Demo Video</a>
 
 
