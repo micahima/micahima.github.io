@@ -25,3 +25,6 @@ An effective way of practicing Javascript, and other programming languages, has 
 ### Summary
 
 Overall, my experience with Javascript and this new method of studying have been very efficient, engaging, and fun. I defienetely plan to implenting these practices when learning future programming languages.  
+
+
+
