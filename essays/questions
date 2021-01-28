@@ -1,0 +1,15 @@
+---
+layout: essay
+type: essay
+title: 
+# All dates must be YYYY-MM-DD format!
+date: 2021-01-27
+labels:
+  - StackOverflow
+  - Learning
+---
+
+In the complex field of software engineering, you are bound to run into a situation where you will need to ask for help. However, with the seer amount of resources avalible online it can be diffcult to understand where and how you can ask your questions. While there are no such thing as dumb questions, there are definetely dumb ways to ask them. Especially when it is at the expense of another person. Thankfully, Eric Raymond's [*How To Ask Questions The Smart Way*](http://www.catb.org/esr/faqs/smart-questions.html) provides a comprehensive guide on when, where, and how to ask questions. 
+
+### Why?
+
