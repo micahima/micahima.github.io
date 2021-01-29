@@ -17,7 +17,7 @@ Ironically, at the beginning of Raymond's essay, there is a disclaimer to preven
 
 <img class="ui medium floated rounded image" src="../images/disclaimer.jpg">
 
-###[Smart Question](https://stackoverflow.com/questions/65924975/change-color-of-icon-when-hovering-over-adjacent-text-with-jquery)
+### [Smart Question](https://stackoverflow.com/questions/65924975/change-color-of-icon-when-hovering-over-adjacent-text-with-jquery)
 |               |               |
 | ------------- | ------------- |
 |<img class="ui medium floated rounded image" src="../images/smartQuestion.jpg">|<img class="ui medium floated rounded image" src="../images/smartAnswer.jpg">|
@@ -25,7 +25,7 @@ Ironically, at the beginning of Raymond's essay, there is a disclaimer to preven
 The first step to asking a smart question to be sure that you need to ask one in the first place. In the example smart question, the asker clearly states what they are trying to do and with what tools. They also provide links to other articles they have visited. This not only shows that they have put in the effort and done their research, but it also provides a foundation for other readers who want to assist them and/or are experiencing a similar issue. The user provided their source code and a link to their jsFiddle. As a result of providing enough information and effort, the asker received help from several users and was able to converse with the community until they came to a solution. 
 
 
-###[Not Smart Question](https://stackoverflow.com/questions/65931647/how-to-get-arrays-from-sting)
+### [Not Smart Question](https://stackoverflow.com/questions/65931647/how-to-get-arrays-from-sting)
 
 <img class="ui medium floated rounded image" src="../images/notSmart.jpg">
 
@@ -35,6 +35,6 @@ In this example, we see the exact opposite of a smart question. The asker in thi
 
 Other than the tag feature provided by *StackOverflow*, the user also did not specify what language they were coding in. Finally, to add the cherry on top, the asker did not properly format their code to match their question. An extremely generous user had to correct the provided code before answering the actual question. In this example, the asker is wasting the community's time by asking questions that have already been answered and asking questions that require more work than needed.
 
-###Closing 
+### Closing 
 
 There is no such thing as a dumb question. However, there is also no excuse for laziness at the expense of others. In this day and age, there is an enormous amount of resources available online. If you find yourself needing to ask a question, please ensure that you have done the proper research first. When you do ask your question, be sure to ask it the smart way. Not only will help you get a better answer, but it may also provide a valuable resource to others who encounter similar issues. The questions you ask, in a way, reflect just as much about your experience as your work does. Being willing to put in the work and effort will be noticed by others and will yield more beneficial results as a whole.
