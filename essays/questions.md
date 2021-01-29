@@ -15,7 +15,7 @@ In the complex field of software engineering, you are bound to run into a situat
 
 Ironically, at the beginning of Raymond's essay, there is a disclaimer to prevent foolish readers from asking him and the other authors technical questions unrelated to his essay. This disclaimer presents a perfect example of the importance of this topic. Learning to ask questions the smart way not only ensures that you are more likely to receive the best possible assistance but also prevents you from needlessly bothering other people and their communities. Asking questions the smart way, in the right place, and for the right reasons, will allow you to receive a better answer to your questions and it will add to the community by providing a meaningful resource for others.
 
-<img class="ui medium rounded image" src="../images/disclaimer.jpg">
+<img class="ui rounded image" src="../images/disclaimer.jpg">
 
 ### [Smart Question](https://stackoverflow.com/questions/65924975/change-color-of-icon-when-hovering-over-adjacent-text-with-jquery)
 
