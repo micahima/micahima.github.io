@@ -21,7 +21,7 @@ Ironically, at the beginning of Raymond's essay, there is a disclaimer to preven
 
 |               |               |
 | ------------- | ------------- |
-|<img class="ui medium rounded image" src="../images/smartQuestion.jpg">|<img class="ui medium rounded image" src="../images/smartAnswer.jpg">|
+|<img class="ui large rounded image" src="../images/smartQuestion.jpg">|<img class="ui large rounded image" src="../images/smartAnswer.jpg">|
 
 The first step to asking a smart question to be sure that you need to ask one in the first place. In the example smart question, the asker clearly states what they are trying to do and with what tools. They also provide links to other articles they have visited. This not only shows that they have put in the effort and done their research, but it also provides a foundation for other readers who want to assist them and/or are experiencing a similar issue. The user provided their source code and a link to their jsFiddle. As a result of providing enough information and effort, the asker received help from several users and was able to converse with the community until they came to a solution. 
 
