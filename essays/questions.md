@@ -28,11 +28,11 @@ The first step to asking a smart question to be sure that you need to ask one in
 
 ### [Not Smart Question](https://stackoverflow.com/questions/65931647/how-to-get-arrays-from-sting)
 
-<img class="ui medium floated rounded image" src="../images/notSmart.jpg">
+<img class="ui large rounded image" src="../images/notSmart.jpg">
 
 In this example, we see the exact opposite of a smart question. The asker in this situation, clearly, did not take the time or effort to attempt a solution. This specific question had been previously answered on *StackOverflow* and it could have been easily solved with [a single google search](https://www.google.com/search?ei=4n8TYJLoNpnA0PEPw8G3OA&q=string+to+array+javascript&oq=string+to+array+javascript&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgIIADIGCAAQBxAeOgcIABCxAxBDOgQIABANUNBRWOxgYItmaABwAngAgAGaAYgB_g-SAQQwLjE1mAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwiS4Y_RmMDuAhUZIDQIHcPgDQcQ4dUDCA0&uact=5). 
 
-<img class="ui medium rounded image" src="../images/googledQuestion.jpg">
+<img class="ui large rounded image" src="../images/googledQuestion.jpg">
 
 Other than the tag feature provided by *StackOverflow*, the user also did not specify what language they were coding in. Finally, to add the cherry on top, the asker did not properly format their code to match their question. An extremely generous user had to correct the provided code before answering the actual question. In this example, the asker is wasting the community's time by asking questions that have already been answered and asking questions that require more work than needed.
 
