@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/TopDownGameHero.png
+image: images/topdown/TopDownGameHero.png
 title: ICS 111 Top-Down Game
 permalink: projects/topdown
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,7 @@ labels:
 summary: A Top-Down Game that I developed for ICS 111.
 ---
 
-<img class="ui rounded image" src="../images/TopDownGamePlay.jpg">
+<img class="ui rounded image" src="../images/topdown/TopDownGamePlay.jpg">
 
 
 For ICS 111, Introduction to Computer Science I, I worked in a group of three to developed a top-down game using object-oriented programming in Java. The game is implemented using the [EZ Graphic multimedia library](http://www2.hawaii.edu/~dylank/ics111/), developed by Dylan Kobayashi, for the game mechanics, user-interface, and animation.
