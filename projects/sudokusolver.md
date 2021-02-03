@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/SudokuSquare.jpg
+image: images/sudoku/SudokuSquare.jpg
 title: Hexadecimal Recursive Sudoku Solver
 permalink: projects/sudoku
 # All dates must be YYYY-MM-DD format!
@@ -17,7 +17,7 @@ This project was a homework assignment for my ICS 211 course. The assignment foc
 
 |               |               |
 | ------------- | ------------- |
-| <img class="ui medium floated rounded image" src="../images/Sudoku_Ex1.jpg">|<img class="ui medium floated rounded image" src="../images/Sudoku_Ex2.jpg">|
+| <img class="ui medium floated rounded image" src="../images/sudoku/Sudoku_Ex1.jpg">|<img class="ui medium floated rounded image" src="../images/sudoku/Sudoku_Ex2.jpg">|
 
 ### How It Works
 The *solveSudoku* function works by checking an inputted 16x16 puzzle for an empty cell which is marked by a -1. Once a empty cell is located, the *solveSudoku* function creates a list of legal values, using the *legalValue* function. The *solveSudoku* function then inputs that first legal value into the empty cell and recursivly calls itself with the newly updated puzzle as it's input.
@@ -28,7 +28,7 @@ The program can handle the simpler sudoku problems very well and solves the depi
 
 |               |               |
 | ------------- | ------------- |
-| <img class="ui medium floated rounded image" src="../images/Sudoku_Ex3.jpg">|<img class="ui medium floated rounded image" src="../images/Sudoku_Ex4.jpg">|
+| <img class="ui medium floated rounded image" src="../images/sudoku/Sudoku_Ex3.jpg">|<img class="ui medium floated rounded image" src="../images/sudoku/Sudoku_Ex4.jpg">|
 
 Source: <a href="https://github.com/micahima/sudokusolver"><i class="large github icon "></i>micahima/sudokusolver</a>
 
