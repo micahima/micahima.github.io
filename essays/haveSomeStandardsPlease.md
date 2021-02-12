@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img class="ui rounded image" src="../images/standards/codingStandardsMeme.jpg">
+<img class="ui rounded image" src="../images/standards/codingStandardsMeme.png">
 
 ### Open Bracket
 Any organization nut will tell you that there is nothing more satisfying than checking a task off a to-do list. I get that same satisfaction from when I have completed my code and ESLint gives me that green checkmark. However, is this an unnecessary gimmick or do coding standards have actually value when programming? Coding standards are a set of rules designed to help programmers write their code efficiently and cleanly. ESLint in particular is designed to enforce coding standards for JavaScript programming and be easily added to most IDE. When implemented into IntelliJ, ESLint notifies users about formatting, syntax, efficiency, and other types of common errors. ESLint will even notify users about soft errors such as typos in strings. 
