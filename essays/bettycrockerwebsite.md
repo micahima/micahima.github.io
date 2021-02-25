@@ -21,11 +21,11 @@ Semantic UI is a development framework designed with simple and intuitive progra
 
 <div class="ui two column center aligned grid cotainer">
   <div class="column">
-    ## Using Semantic UI
+    <h3 class="ui header">Using Semantic UI</h3>
     <img class="ui round image" src="../images/semanticUI/semanticBrowser.png">
   </div>
   <div class="column">
-    ## Using Raw HTML & CSS
+    <h3 class="ui header">Using Raw HTML & CSS</h3>
     <img class="ui round image column" src="../images/semanticUI/rawBrowser.png">
   </div>
 </div>
