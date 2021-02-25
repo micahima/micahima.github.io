@@ -18,6 +18,11 @@ UI Frameworks are predefined collection of classes that define and modify the be
 
 ### Semantic UI
 Semantic UI is a development framework designed with simple and intuitive programming in mind. The framework comes with a lot of predefined elements such as buttons, menus, and forms. It is easy to use while still maintaining a good amount of customization. Most of the elements have a wide range of variation in color, size, and other formatting aspects. There is also the option to adjust the theme of the elements, for more advanced users. However, you can still create beautiful websites using the basic Semantic UI theme. One of Semantic UI biggest selling points is their simplistic syntax. Semantic UI uses natural language to define classes so to create a large button you can use the “large button” class. This makes programming with Semantic UI very intuitive and easy to understand. There is still a learning curve that comes with using Semantic UI. However, compared to programming in raw HTML and CSS, the return on investment is well worth the time.
+
+<div class="ui two column grid cotainer">
+  <img class="ui round image column" src="../images/semantic/semanticBrowser.jpg">
+  <img class="ui round image column" src="../images/semantic/rawBrowser.jpg">
+</div>
   
 ### Benefit
 When programming in raw HTML and CSS, basic formatting can be extremely tedious. If you are not well experienced in using raw HTML and CSS, you can spend a large amount of time trying to properly format a project while still ending up with a mundane looking website. However, with Semantic UI the  built in themes and element formatting makes building an interesting website easier and less time consuming. In the same amount of time you use to create a webpage in raw HTML and CSS, you can create more interesting looking webpage using Semantic UI. While it does take time to learn how to use Semantic UI, the simplistic natural of framework make it easy to understand and practice. Also, as a user become more experienced in HTML and CSS, they can use Semantic UI as a building block to create more complex designs. 
