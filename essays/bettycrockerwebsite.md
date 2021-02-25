@@ -20,8 +20,8 @@ UI Frameworks are predefined collection of classes that define and modify the be
 Semantic UI is a development framework designed with simple and intuitive programming in mind. The framework comes with a lot of predefined elements such as buttons, menus, and forms. It is easy to use while still maintaining a good amount of customization. Most of the elements have a wide range of variation in color, size, and other formatting aspects. There is also the option to adjust the theme of the elements, for more advanced users. However, you can still create beautiful websites using the basic Semantic UI theme. One of Semantic UI biggest selling points is their simplistic syntax. Semantic UI uses natural language to define classes so to create a large button you can use the “large button” class. This makes programming with Semantic UI very intuitive and easy to understand. There is still a learning curve that comes with using Semantic UI. However, compared to programming in raw HTML and CSS, the return on investment is well worth the time.
 
 <div class="ui two column grid cotainer">
-  <img class="ui round image column" src="../images/semantic/semanticBrowser.jpg">
-  <img class="ui round image column" src="../images/semantic/rawBrowser.jpg">
+  <img class="ui round image column" src="../images/semanticUI/semanticBrowser.jpg">
+  <img class="ui round image column" src="../images/semanticUI/rawBrowser.jpg">
 </div>
   
 ### Benefit
