@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/topdown/TopDownGameHero.png
-title: ICS 111 Top-Down Game
+title: 2D Top-Down Game
 permalink: projects/topdown
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-08
