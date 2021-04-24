@@ -51,14 +51,17 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
         "C",
         "C++",
+        "C#",
+        "HTML/CSS",
         "Java",
         "Javascript",
-        "Python"
+        "Python",
+        "MATLAB"
       ]
     },
     {
@@ -69,8 +72,19 @@
         "Git/GitHub",
         "g++/gcc",
         "Linux emacs",
-        "VS Studio",
-        "Eclipse"
+        "Visual Studio",
+        "Eclipse IDE"
+      ]
+    },
+    {
+      "name": "Framework & Libraries",
+      "level": "",
+      "keywords": [
+        "Semantic UI",
+        "React",
+        "MeteorJS",
+        "Underscore",
+        "EZ Graphics"
       ]
     }
   ],
@@ -82,8 +96,9 @@
       "startDate": "2019-09-01",
       "endDate": "Present",
       "gpa": "3.75",
-      "courses": ["Linear Algebra & Diff Equations", "Elementary Probability & Statistics",
-                  "Introduction to Discrete Mathematics", "Calculus & Analytical Geometry III"
+      "courses": ["Program Structure (C/C++)", "Algorithms & Data Structures", "Software Engineering", 
+                  "Linear Algebra & Differential Equations", "Probability & Statistics", "Discrete Mathematics", 
+                  "Calculus & Analytical Geometry III"
       ]
     }
   ],
@@ -95,8 +110,12 @@
       "startDate": "2019-11-01",
       "endDate": "Present",
       "summary": "",
-      "highlights": [ "Attention to detail", "Communication", "Cultural Awareness", "Dependability", 
-                     "Organization", "Planning", "Positive attitude", "Problem solving", "Teamwork", "Work ethic"
+      "highlights": [ "Counseled and advised domestic and international students concerning undergraduate programs and admissions.", 
+                     "Evaluated student records to ensure completion of student applications.", 
+                     "Required advanced knowledge of the university’s services and policies.", 
+                     "Served as a point of contact for the prospective students and guests.", 
+                     "Effectively communicate with students and office staff via telephone, email, online chat, and video communications.", 
+                     "Ensured compliance with state and federal regulations concerning the privacy of student information."
       ]
     }
   ],
