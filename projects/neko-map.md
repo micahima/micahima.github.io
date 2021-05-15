@@ -30,5 +30,5 @@ My intial contribution to the project involved the deployment of the [Neko Map P
 
 All the technical software engineering skills I learned this semester were used in this project. However, the non-technical skills were also essentinal to the success of the project. Especially during this time of social distancing, effective communication and project organization was something my group felt we needed to constantly maintain. While most of the technical skills for this project could have been practiced independently, the ability to successfuly work with a team is an important aspect of software engineering. This final project did a great job of highlight both the technical and non-technical aspect software engineering.
 
-Final Result: <img height="24" width="24" src="../images/neko-map/neko-cat-icon.ico"><a href="https://neko-map.xyz/#/">neko-map.xyz</a>
+Final Result: <img height="16" width="16" src="../images/neko-map/neko-cat-icon.ico"><a href="https://neko-map.xyz/#/">neko-map.xyz</a>
 Source: <a href="https://github.com/neko-map"><i class="large github icon "></i>github.com/neko-map</a>
