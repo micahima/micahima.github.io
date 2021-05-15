@@ -5,7 +5,7 @@ image: images/minami/minami-logo.png
 title: Minami Website Remake
 permalink: projects/minami-remake
 # All dates must be YYYY-MM-DD format!
-date: 2020-05-14
+date: 2020-03-12
 labels:
   - JavaScript
   - Web Application Developement
