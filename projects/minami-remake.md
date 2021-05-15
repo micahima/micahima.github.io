@@ -12,7 +12,7 @@ labels:
   - HTML/CSS
   - MeteorJS
   - Semantic UI/React
-summary: Homework assignment for ICS 314.
+summary: Software Engineering I Assignment.
 ---
 
 This project was a set of homework assignments for my ICS 314 course. The assignment focused on recreating a web page of my choice. The project was done using JavaScript, the Semantic UI/React Framework, and MeteorJS. The purpose of this project was to develop an understanding of the basic fundamentals of UI and web application design. I chose to recreate the homepage of the [Minami Official Website](https://www.373official.com/), a website for a popular Japanese musician.
