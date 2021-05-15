@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/sudoku/SudokuSquare.jpg
-title: Hexadecimal Recursive Sudoku Solver
+title: Recursive Hexadecimal Sudoku Solver
 permalink: projects/sudoku
 # All dates must be YYYY-MM-DD format!
 date: 2020-03-01
@@ -10,7 +10,7 @@ labels:
   - Java
   - Recursion
   - GitHub
-summary: Homework assignment for ICS 211.
+summary: Project for ICS 211 Introduction to Computer Science II.
 ---
 
 This project was a homework assignment for my ICS 211 course. The assignment focused on implementing a recusive backtracking algorithm in order to solve 16x16 Hexadecimal Sudoku Puzzles. A majority of the set-up for this project was done by the professor for the course. The students were tasked with implementing the *solveSudoku* and *legalValues* functions in *HexadecimalSudoku.java*. 
