@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/minami/minami-logo.png
+image: images/neko-map/neko-logo.png
 title: Neko Map
 permalink: projects/neko-map
 # All dates must be YYYY-MM-DD format!
