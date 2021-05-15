@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/judo/JudoSquare.jpg
 title: Judo
-permalink: projects/jduo
+permalink: projects/judo
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-01
 labels:
